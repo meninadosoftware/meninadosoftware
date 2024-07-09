@@ -1,4 +1,4 @@
-# Hello ! I'm Camila Pereira 👋
+# Hello! I'm Camila Pereira 👋
 ![Banner](https://avatars.githubusercontent.com/u/42609768?s=400&u=f5ffc4f21d6806960236619a3c8bca15ae0ded06&v=4)
 
 I'm a software developer with a passion for technology and innovation. I have experience in several programming languages and technologies, and I'm always looking for new challenges and opportunities to learn and grow.
