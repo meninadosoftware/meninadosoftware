@@ -3,6 +3,13 @@
 
 I'm a software developer with a passion for technology and innovation. I have experience in several programming languages and technologies, and I'm always looking for new challenges and opportunities to learn and grow.
 
+## 🔍 About Me
+
+- 🎓 Graduated in Computer Engineering from Uninter (2022).
+- 📚 Technical computer course completed in 2015.
+- 🌍I study 10 languages, always looking for a fusion between technology and intercultural communication.
+- 🚀I have about 6 years' experience in systems development, with a focus on web application development projects.
+
 ## 📈 GitHub statistics
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=meninadosoftware&show_icons=true&theme=radical)
@@ -44,14 +51,5 @@ Here are some of the technologies I work with:
 - **Agile methodologies:**
 - ![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white)
 - ![Kanban](https://img.shields.io/badge/Kanban-326CE5?style=for-the-badge&logo=kanban&logoColor=white)
-
-## 🔍 About Me
-
-- 🎓 Graduated in Computer Engineering from Uninter (2022).
-- 📚 Technical computer course completed in 2015.
-- 🌍I study 10 languages, always looking for a fusion between technology and intercultural communication.
-- 🚀I have about 6 years' experience in systems development, with a focus on web application development projects.
-
-
 
 Thank you for visiting my profile!
