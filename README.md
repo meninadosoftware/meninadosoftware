@@ -52,4 +52,16 @@ Here are some of the technologies I work with:
 - ![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrum&logoColor=white)
 - ![Kanban](https://img.shields.io/badge/Kanban-326CE5?style=for-the-badge&logo=kanban&logoColor=white)
 
+🎓 I'm currently studying and improving myself in:
+    - 🌐 **PHP**
+       ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    - 📱 **Kotlin**
+       ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+    - 🚀 **GoLang**
+     ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+    - 🦀 **Rust**
+     ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+   - 💎 **Ruby**
+      ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+     
 Thank you for visiting my profile!
