@@ -53,14 +53,14 @@ Here are some of the technologies I work with:
 - ![Kanban](https://img.shields.io/badge/Kanban-326CE5?style=for-the-badge&logo=kanban&logoColor=white)
 
 🎓 I'm currently studying and improving myself in:
-    - 🌐 **PHP**
-    
+
+  - 🌐 **PHP**
   
-   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-  - 📱 **Kotlin**
+- 📱 **Kotlin**
 
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+     ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
        
 - 🚀 **GoLang**
     
@@ -72,6 +72,6 @@ Here are some of the technologies I work with:
      
 - 💎 **Ruby**
     
- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+    ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
      
 Thank you for visiting my profile!
