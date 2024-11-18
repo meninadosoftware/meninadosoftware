@@ -7,7 +7,8 @@ I'm a software developer with a passion for technology and innovation. I have ex
 
 - 🎓 Graduated in Computer Engineering from Uninter (2022).
 - 📚 Technical computer course completed in 2015.
-- 🌍I study 10 languages, always looking for a fusion between technology and intercultural communication.
+- 🌍I study 10 languages(Portuguese - Native |English - Advanced | Spanish - Advanced | German - Intermediate | Turkish - Intermediate | Polish - Basic
+     | Russian - Basic | Korean - Beginner | Chinese (Mandarin) - Beginner | Japanese - Beginner ), always looking for a fusion between technology and intercultural communication.
 - 🚀I have about 6 years' experience in systems development, with a focus on web application development projects.
 
 ## 📈 GitHub statistics
